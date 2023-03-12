@@ -1,0 +1,8 @@
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\bin\Debug\dasarPemograman.exe.config
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\bin\Debug\dasarPemograman.exe
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\bin\Debug\dasarPemograman.pdb
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\obj\Debug\dasarPemograman.csproj.AssemblyReference.cache
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\obj\Debug\dasarPemograman.csproj.SuggestedBindingRedirects.cache
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\obj\Debug\dasarPemograman.csproj.CoreCompileInputs.cache
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\obj\Debug\dasarPemograman.exe
+D:\Amikom\Dosen\Materipert1\dasarPemograman\dasarPemograman\obj\Debug\dasarPemograman.pdb
