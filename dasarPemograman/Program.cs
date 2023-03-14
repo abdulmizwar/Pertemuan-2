@@ -51,8 +51,6 @@ nama antara kelas, variabel, dan metode yang berbeda.
 
             Console.WriteLine("Hasil Penjumlahan " + a + " + " + b + " = " + Penambahan(a, b));
             Console.WriteLine("Hasil Pengurangan " + a + " - " + b + " = " + Pengurangan(a, b));
-            Console.WriteLine("Hasil Perkalian " + a + " x " + b + " = " + Perkalian(a, b));
-            Console.WriteLine("Hasil Pembagian " + a + " / " + b + " = " + Pembagian(a, b));
 
         }
 
@@ -75,15 +73,6 @@ nama antara kelas, variabel, dan metode yang berbeda.
         static int Pengurangan(int a, int b)
         {
             return a - b;
-        }
-        static int Perkalian(int a, int b)
-        {
-            return a * b;
-        }
-
-        static int Pembagian(int a, int b)
-        {
-            return a / b;
         }
     }
 }
